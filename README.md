@@ -1,12 +1,44 @@
-# Machine-learning
+What is it?
+-----------
 
-Hi Everyone, 
+This repository consists of three projects implemented in MATLAB. Refer to the following mentioned folder names.
 
-I have implemented some of popular Machine learning algorithms Linear Regression, Logistic Regression and Artificial Neural Networks. I have done this by taking help from some MOOCs specifically Andrew Ng's Machine Learning|Stanford University provided on Coursera. I can't say the whole code is mine but almost all of the important functions of the algorithms have been implemented by me. Even coursera grades you only if you are able to implement these functions. Only a few lines of code have been written by Coursera, rest all is by me. 
+1.ANN-
+Implements Artificial Neural Networks to recognize Handwritten digits. Run ann.m file to see it work.
 
-My aim is to make these algorithms available to the students. I have tried to keep my code simple so that readers understand these algorithms. Throughout the code i have used the concept of Vectorization i.e. all the mathematical formulaes involving nested loops have been implemented in a single line using matrix computations. Furthermore, the code is flexible enough to work for any application, only the input data matrix needs to be modified according to user application. 
+2.Logistic Regression-
+Using Multi-Class Classification(One-vs-all), this program aims to recognize handwritten digits as well. Run logsiticregression.m file.(ignore the spelling mistake :p)
 
-That's it. Thanks for reading. Cheers !
+3.Linear Regression-
+Multivariate Regression model with regularization model, to predict admission of a student.Run lr.m and lr_regularized.m.
 
-Regards
-Siddhant
+Essential Features-
+1. Vectorized approach
+
+Installation
+-------------
+
+Installation is easy as these are .m files so just download these folders to your MATLAB directory. 
+
+Authors
+--------
+
+1. Siddhant Tandon*
+
+*Most of the code has been written by me,except that some lines of code were written by Coursera as this project was a part of Machine Learning course by Andew Ng.
+
+License
+--------
+
+Anyone who wants to learn and use these algorithms. 
+I don't even know why am I adding this License text. 
+
+Contact
+--------
+
+Please feel free to contact me.
+
+siddhant.tandon203@gmail.com
+
+
+ 
